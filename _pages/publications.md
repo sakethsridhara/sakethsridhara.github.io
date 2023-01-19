@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -14,3 +14,20 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+ -->
+ 1. **Sridhara, S.**, Chandrasekhar, A., & Suresh, K. (2022). "A Generalized Framework for Microstructural Optimization using Neural Networks." *Materials & Design* 
+ [paper]()[code]()
+2. Chandrasekhar, A.*, **Sridhara, S.**, & Suresh, K. (2022). Graded Multiscale Topology Optimization using Neural Networks. *Advances in Engg. Software (*equal contribution*)
+[paper]()[code]()
+3. Chandrasekhar, A.*, **Sridhara, S.**, and Suresh, K. (2022) "Integrating material selection with design optimization via neural networks". Engineering with Computers. (*equal contribution*)
+[paper]()[code]()
+4.  Chandrasekhar A*, **Sridhara, S.**, and Suresh, K. (2021) "AuTO: A Framework for Automatic differentiation in Topology Optimization." Structural and Multidisciplinary Optimization 64, 4355–4365 . (*equal contribution*)
+[paper]()[code]()
+5. Kumar, T., **Sridhara, S.**, Bhagyashree, P., and Suresh, K. (2021). "Spectral decomposition for graded multi-scale topology optimization." Computer Methods in Applied Mechanics and Engineering 377: 113670.
+[paper]()[code]()
+6. Prabhune, B., **Sridhara, S.** and Suresh, K. (2021). "Tangled finite element method (TFEM) for handling concave elements in quadrilateral meshes", International Journal of Numerical Methods in Engineering, 123(7), 1576-1605.
+[paper]()[code]()
+7. Desai Akshay, Mihir Mogra, **Sridhara, S.**, Kiran Kumar, Gundavarapu Sesha, and G. K. Ananthasuresh. (2021) "Topological-derivative-based design of stiff fiber-reinforced structures with optimally oriented continuous fibers." Structural and Multidisciplinary Optimization 63, no. 2 (2021): 703-720.
+[paper]()
+8. Srinivasa Vaibhav, **Sridhara, S.**, Ganesh Agile Nagappa, and Bhagatsingh Amarnath Biradar. (2016). "Estimation and reduction of drag in fuselage of solar powered UAV." In 2016 IEEE Aerospace Conference, pp. 1-11. IEEE, 2016.
+[paper]()
