@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saketh Sridhara"
+title                    : "Saketh Sridhara / Academic Website"
 title_separator          : "-"
 name                     : &name "Saketh Sridhara"
 description              : &description "personal description"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/saketh-sridhara-43955a107/"
   orcid            : "http://orcid.org/0000-0002-4987-4724"
   pinterest        :
   soundcloud       :
