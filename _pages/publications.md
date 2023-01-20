@@ -19,9 +19,9 @@ author_profile: true
  [[paper]](https://www.sciencedirect.com/science/article/pii/S0264127522008358) [[code]](https://github.com/UW-ERSL/MicroTOuNN)
 2. Chandrasekhar, A.&ast;, **Sridhara, S.**&ast;, & Suresh, K. (2022). Graded Multiscale Topology Optimization using Neural Networks. *Advances in Engg. Software (*equal contribution*)
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0965997822002605) [[code]](https://github.com/UW-ERSL/GMTOuNN/stargazers)
-3. Chandrasekhar, A.&ast;, **Sridhara, S.**&ast;, and Suresh, K. (2022) "Integrating material selection with design optimization via neural networks". Engineering with Computers. (*equal contribution*)
+3. Chandrasekhar, A. \*, **Sridhara, S.** \*;, and Suresh, K. (2022) "Integrating material selection with design optimization via neural networks". Engineering with Computers. (*equal contribution*)
 [[paper]](https://link.springer.com/article/10.1007/s00366-022-01736-0) [[code]](https://github.com/UW-ERSL/MaTruss)
-4.  Chandrasekhar A**, **Sridhara, S.***, and Suresh, K. (2021) "AuTO: A Framework for Automatic differentiation in Topology Optimization." Structural and Multidisciplinary Optimization 64, 4355–4365 . (*equal contribution*)
+4.  Chandrasekhar A&ast;, **Sridhara, S.**&ast;, and Suresh, K. (2021) "AuTO: A Framework for Automatic differentiation in Topology Optimization." Structural and Multidisciplinary Optimization 64, 4355–4365 . (*equal contribution*)
 [[paper]](https://link.springer.com/article/10.1007/s00158-021-03025-8) [[code]](https://github.com/UW-ERSL/AuTO)
 5. Kumar, T., **Sridhara, S.**, Bhagyashree, P., and Suresh, K. (2021). "Spectral decomposition for graded multi-scale topology optimization." Computer Methods in Applied Mechanics and Engineering 377: 113670.
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0045782521000062) [[code]](https://github.com/sakethsridhara/MultiscaleTO)
