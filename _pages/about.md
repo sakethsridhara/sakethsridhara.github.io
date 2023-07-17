@@ -7,10 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at [UW-Madison](https://www.wisc.edu/) advised by  Prof. [Krishnan Suresh](https://directory.engr.wisc.edu/me/faculty/suresh_krishnan) at the [Engineering Representations and Simulation Lab](https://ersl.wisc.edu/).
+I am a fourth PhD student at [UW-Madison](https://www.wisc.edu/) advised by  Prof. [Krishnan Suresh](https://directory.engr.wisc.edu/me/faculty/suresh_krishnan) at the [Engineering Representations and Simulation Lab](https://ersl.wisc.edu/), majoring in Mechanical Engineering with a minor in Computer Sciences.
 
-My research lies at the intersection of engineering design, machine learning, and topology optimization. I have developed a novel approach for representing engineering materials and catalogs using neural networks (autoencoders) which enables visualization, optimal selection and customization. Additionally, I have explored using implicit neural networks for geometric representation and automatic differentiation in the design of microstructures and designs that span multiple scales via topology optimization. 
+My research interests include engineering design optimization, partial differential equations, and machine learning. Recently, I developed a novel approach for representing engineering materials and catalogs using neural networks (autoencoders) enabling visualization, optimal selection, and customization. Additionally, I have explored using implicit neural networks for geometric representation and automatic differentiation in the design of microstructures and designs that span multiple scales via topology optimization. 
 
-I believe that utilizing optimization techniques and machine learning can not only enhance engineering design, but also provide valuable understanding and insights for engineers and practitioners.
+I believe that the integration of optimization techniques and machine learning can not only elevate engineering design but also inform engineers and practitioners with invaluable understanding and insights.
 
-Explore more details about my work by checking the publications and talks tabs, and my contact details on the sidebar. You can download a copy of my CV from the CV section.
+You can find more details about my work by checking the publications and talks tabs, and my contact details on the sidebar. You can download a copy of my CV from the CV section.
+
+**News**
+======
+Mar 23: Work on Visual representation of engineering catalogs accepted to ASME-IDETC 2023
+Jan 23: Work on graded multiscale topology optimization published
+Dec 22: Passed my Phd prelims! :)
+Dec 22: Presented my work at NeurIPS 2022 AI4Mat, New Orleans
