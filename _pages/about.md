@@ -17,7 +17,12 @@ You can find more details about my work by checking the publications and talks t
 
 **News**
 ======
-Mar 23: Work on Visual representation of engineering catalogs accepted to ASME-IDETC 2023
-Jan 23: Work on graded multiscale topology optimization published
+Mar 23: Work on visual representation of engineering catalogs accepted to ASME-IDETC 2023
+
+Jan 23: Work on graded multiscale topology optimization published in Advanced in Engg Software
+
 Dec 22: Passed my Phd prelims! :)
+
 Dec 22: Presented my work at NeurIPS 2022 AI4Mat, New Orleans
+
+Nov 22: Work on microstructural optimization using neural networks publish in Materials & Design
