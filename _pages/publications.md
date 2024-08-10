@@ -4,17 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %} 
-<!-- 
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
  -->
+
+ Update: Please find all my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=8bK3LSUAAAAJ&view_op=list_works)
  1. **Sridhara, S.**, Chandrasekhar, A., & Suresh, K. (2022). "A Generalized Framework for Microstructural Optimization using Neural Networks." *Materials & Design* 
  [[paper]](https://www.sciencedirect.com/science/article/pii/S0264127522008358) [[code]](https://github.com/UW-ERSL/MicroTOuNN)
 2. Chandrasekhar, A. \*, **Sridhara, S.** \*, & Suresh, K. (2022). Graded Multiscale Topology Optimization using Neural Networks. *Advances in Engg. Software (\* - equal contribution)
