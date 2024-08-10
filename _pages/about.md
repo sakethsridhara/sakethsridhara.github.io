@@ -13,10 +13,16 @@ My research interests include engineering design optimization, numerical methods
 
 I believe that the integration of optimization techniques and machine learning can not only elevate engineering design but also inform engineers and practitioners with invaluable understanding and insights.
 
-You can find more details about my work by checking the publications and talks tabs, and my contact details on the sidebar. You can download a copy of my CV from the CV section.
+You can find more details about my work by checking the publications and talks tabs, and my contact details on the sidebar. I'd love to connect!
 
 **News**
 ======
+July 24: Presented on material selection and topology optimization at WCCM 2024, Vancouver, Canada.
+
+May 24: Work on hybrid machine learning and evolutionary approach to material selection and design optimization for eco-friendly structures publish in SAMO
+
+Jan 24: Interned at Ansys, Austin TX for the Spring 2024 semester.
+
 Sep 23: Presented a poster at the annual PANTHER workshop, Madison, WI
 
 Aug 23: Presented at the ASME-IDETC 2023 - Boston, MA
@@ -25,8 +31,8 @@ Mar 23: Work on visual representation of engineering catalogs accepted to ASME-I
 
 Jan 23: Work on graded multiscale topology optimization published in Advanced in Engg Software
 
-Dec 22: Passed my Phd prelims! :)
+[comment]: <Dec 22: Passed my Phd prelims! :)>
 
-Dec 22: Presented my work at NeurIPS 2022 AI4Mat, New Orleans
+[comment]: <Dec 22: Presented my work at NeurIPS 2022 AI4Mat, New Orleans>
 
-Nov 22: Work on microstructural optimization using neural networks publish in Materials & Design
+[comment]: <Nov 22: Work on microstructural optimization using neural networks publish in Materials & Design>
