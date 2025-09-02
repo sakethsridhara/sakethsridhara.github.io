@@ -8,15 +8,7 @@ redirect_from:
   - /about.html
 ---
 Assistant Professor in the Department of Mechanical and Industrial Engineering at UMass Amherst. Website under construction; please e-mail me to get in touch! Thank you.
-<!---
-[comment]: <fifth year PhD student at [UW-Madison](https://www.wisc.edu/) advised by  Prof. [Krishnan Suresh](https://directory.engr.wisc.edu/me/faculty/suresh_krishnan) at the [Engineering Representations and Simulation Lab](https://ersl.wisc.edu/), majoring in Mechanical Engineering with a minor in Computer Sciences.
 
-My research interests include engineering design optimization, numerical methods for PDEs, and machine learning. Recently, I developed a novel approach for representing engineering materials and catalogs using neural networks (autoencoders) enabling visualization, optimal selection, and customization. Additionally, I have explored using implicit neural networks for geometric representation and automatic differentiation in the design of microstructures and designs that span multiple scales via topology optimization. 
-
-I believe that the integration of optimization techniques and machine learning can not only elevate engineering design but also inform engineers and practitioners with invaluable understanding and insights.
-
-You can find more details about my work by checking the publications and talks tabs, and my contact details on the sidebar. I'd love to connect!>
--->
 **News**
 ======
 Sep 25: Started as Assistant Professor in Mechanical and Industrial Engineering at UMass Amherst
