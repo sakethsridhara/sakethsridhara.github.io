@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Assistant Professor in the Department of Mechanical and Industrial Engineering at UMass Amherst. Website under construction; please e-mail me to get in touch! Thank you.
+Hello, and thanks for visiting my website. I'm an Assistant Professor in the Department of Mechanical and Industrial Engineering at the University of Massachusetts Amherst. Website under construction; please e-mail me to get in touch! Thank you.
+
+Note: I am actively recruiting graduate students to start in Spring 2026/Fall 2026 at UMass Amherst.  Research areas broadly include: multi-scale/multi-physics/multi-material topology optimization, computational mechanics, design for advanced manufacturing, and AI/ML for engineering design. Students interested are encouraged to e-mail me, and I would be happy to discuss further.
+
 
 **News**
 ======
