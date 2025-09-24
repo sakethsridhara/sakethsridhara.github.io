@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello, and thanks for visiting my website. I'm an Assistant Professor in the Department of Mechanical and Industrial Engineering at the University of Massachusetts Amherst. 
 
-I lead the **computational design research group**. We develop novel design optimization frameworks that integrate multiple physics, materials, and length scales, to design high-performance components and devices across various engineering disciplines. Our work leverages tools from computational mechanics, solid modeling, numerical optimization, machine learning, and additive manufacturing to advance the state of the art in mechanical design.
+I lead the **computational design research group**. We develop novel design optimization frameworks that integrate multiple physics, materials, and length scales, to design high-performance components and devices across various engineering disciplines. Our work leverages tools from computational mechanics, solid modeling, numerical optimization, machine learning, and additive manufacturing to advance the state of the art in mechanical design. The application areas of our research ranges from automobile and aerospace components to civil structures and biomedical devices.
 
 I completed my PhD in Mechanical Engineering and a minor in Computer Science at the University of Wisconsin-Madison in the summer of 2025, advised by Prof. Krishnan Suresh.
 
