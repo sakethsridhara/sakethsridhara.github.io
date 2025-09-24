@@ -11,4 +11,5 @@ redirect_from:
 
 Download CV
 ======
-CV (updated Jan 2023) can be downloaded from this Google drive [link](https://drive.google.com/file/d/1aX1gSux9y5yYvEZsDK5O8FEZ4WxX7T2j/view?usp=sharing).
+Please e-mail me for an updated CV.
+<!-- CV (updated Jan 2023) can be downloaded from this Google drive [link](https://drive.google.com/file/d/1aX1gSux9y5yYvEZsDK5O8FEZ4WxX7T2j/view?usp=sharing). -->

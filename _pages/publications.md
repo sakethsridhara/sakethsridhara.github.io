@@ -17,7 +17,7 @@ author_profile: true
  -->
 
  Update: Please find all my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=8bK3LSUAAAAJ&view_op=list_works)
- 1. **Sridhara, S.**, Chandrasekhar, A., & Suresh, K. (2022). "A Generalized Framework for Microstructural Optimization using Neural Networks." *Materials & Design* 
+ <!-- 1. **Sridhara, S.**, Chandrasekhar, A., & Suresh, K. (2022). "A Generalized Framework for Microstructural Optimization using Neural Networks." *Materials & Design* 
  [[paper]](https://www.sciencedirect.com/science/article/pii/S0264127522008358) [[code]](https://github.com/UW-ERSL/MicroTOuNN)
 2. Chandrasekhar, A. \*, **Sridhara, S.** \*, & Suresh, K. (2022). Graded Multiscale Topology Optimization using Neural Networks. *Advances in Engg. Software (\* - equal contribution)
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0965997822002605) [[code]](https://github.com/UW-ERSL/GMTOuNN/stargazers)
@@ -32,4 +32,4 @@ author_profile: true
 7. Desai Akshay, Mihir Mogra, **Sridhara, S.**, Kiran Kumar, Gundavarapu Sesha, and G. K. Ananthasuresh. (2021) "Topological-derivative-based design of stiff fiber-reinforced structures with optimally oriented continuous fibers." Structural and Multidisciplinary Optimization 63, no. 2 (2021): 703-720.
 [[paper]](https://link.springer.com/article/10.1007/s00158-020-02721-1)
 8. Srinivasa Vaibhav, **Sridhara, S.**, Ganesh Agile Nagappa, and Bhagatsingh Amarnath Biradar. (2016). "Estimation and reduction of drag in fuselage of solar powered UAV." In 2016 IEEE Aerospace Conference, pp. 1-11. IEEE, 2016.
-[[paper]](https://ieeexplore.ieee.org/document/7500911)
+[[paper]](https://ieeexplore.ieee.org/document/7500911) -->

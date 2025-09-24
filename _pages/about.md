@@ -7,9 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, and thanks for visiting my website. I'm an Assistant Professor in the Department of Mechanical and Industrial Engineering at the University of Massachusetts Amherst. Website under construction; please e-mail me to get in touch! Thank you.
+Hello, and thanks for visiting my website. I'm an Assistant Professor in the Department of Mechanical and Industrial Engineering at the University of Massachusetts Amherst. I lead the **computational design research group**. We develop novel design optimization frameworks that integrate multiple physics, materials, and length scales, to design high-performance components and devices across various engineering disciplines. Our work leverages tools from computational mechanics, solid modeling, numerical optimization, machine learning, and additive manufacturing to advance the state of the art in mechanical design.
 
-Note: I am actively recruiting graduate students to start in Spring 2026/Fall 2026 at UMass Amherst.  Research areas broadly include: multi-scale/multi-physics/multi-material topology optimization, computational mechanics, design for advanced manufacturing, and AI/ML for engineering design. Students interested are encouraged to e-mail me, and I would be happy to discuss further.
+I completed my PhD in Mechanical Engineering and a minor in Computer Science at the University of Wisconsin-Madison, advised by Prof. Krishnan Suresh.
+
+**PhD Positions**
+======
+
+I am actively recruiting graduate students to start in Spring 2026/Fall 2026 at UMass Amherst.  Research areas broadly include: Topology optimization: foundations and applications, AI/ML for engineering design, and design for advanced manufacturing. Students interested are encouraged to e-mail me, and I would be happy to discuss further.
+
+
 
 
 **News**
