@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Update: Please find all my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=8bK3LSUAAAAJ&view_op=list_works)
+Update: Find all my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=8bK3LSUAAAAJ&view_op=list_works)
 
 
 {% raw %}
