@@ -23,6 +23,11 @@ Find more info in this flyer: [here](https://umass-my.sharepoint.com/:b:/g/perso
 
 **News**
 ======
+
+Oct 25: Presented an invited talk at Worcester Polytechnic Institute on ML for engineering design optimization
+
+Oct 25: Presented an invited lightning talk at the NSF AI-EDSE Workshop. Find the recording [here](https://engineering.purdue.edu/ME/AI-EDSE)
+
 Sep 25: Started as Assistant Professor in Mechanical and Industrial Engineering at UMass Amherst
 
 Jul 25: Presented on material selection and topology optimization at USNCCM 2025, Chicago, IL
