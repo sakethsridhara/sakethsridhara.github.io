@@ -15,12 +15,10 @@ I lead the **computational design research group**. We develop novel design opti
 
 I completed my PhD in Mechanical Engineering and a minor in Computer Science at the University of Wisconsin-Madison in the summer of 2025, advised by Prof. Krishnan Suresh.
 
-**PhD Positions**
+**JOIN**
 ======
 
-I am actively recruiting graduate students to start in Spring 2027 at UMass Amherst.  Research areas broadly include: Topology optimization: foundations and applications, AI/ML for engineering design, and design for advanced manufacturing. Students interested are encouraged to e-mail me, and I would be happy to discuss further. 
-
-Find more info in this flyer: [here](https://umass-my.sharepoint.com/:b:/g/personal/ssridhara_umass_edu/EUUtsq8myaVMtslyto7GgZIB7t8HaL2riiPED-ETSw5PsQ?e=jN20Eh)
+- **PhD positions, Spring 2027** — I am actively recruiting graduate students to start in Spring 2027 at UMass Amherst. Research areas broadly include: Topology optimization: foundations and applications, AI/ML for engineering design, and design for advanced manufacturing. Students interested are encouraged to e-mail me at ssridhara@umass.edu with subject line PhD Applicant: <Your Name>, and I would be happy to discuss further. Find more info in this [flyer](https://umass-my.sharepoint.com/:b:/g/personal/ssridhara_umass_edu/EUUtsq8myaVMtslyto7GgZIB7t8HaL2riiPED-ETSw5PsQ?e=jN20Eh).
 
 
 **News**
