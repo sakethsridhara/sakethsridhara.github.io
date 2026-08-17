@@ -1,10 +1,17 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+layout: single
+title: "Research"
+permalink: /research/
 author_profile: true
+redirect_from:
+  - /publications/
 ---
-Update: Find all my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=8bK3LSUAAAAJ&view_op=list_works)
+
+<!-- Add a description of your research here. -->
+
+## Publications
+
+Find all my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=8bK3LSUAAAAJ&view_op=list_works)
 
 
 {% raw %}
