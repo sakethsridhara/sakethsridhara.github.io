@@ -11,7 +11,8 @@ author_profile: false
   <img src="/images/saketh_headshot.jpg" alt="Saketh Sridhara" style="width:150px; height:150px; border-radius:50%; object-fit:cover; flex-shrink:0;">
   <div>
     <p style="margin:0 0 8px; font-weight:bold;">Saketh Sridhara </p>
-    <p style="margin:0;"> </p>
+    <p style="margin:0;"> I am an Assistant Professor in Mechanical Engineering (since Fall 2025), and I lead the computational design research group. Saketh completed his PhD in Mechanical Engineering and a minor in Computer Science at the University of Wisconsin-Madison in the summer of 2025, advised by Prof. Krishnan Suresh.
+ </p>
   </div>
 </div>
 
