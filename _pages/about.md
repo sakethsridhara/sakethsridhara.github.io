@@ -18,4 +18,4 @@ Summer 2026: I have been updating sections of the website, please stay tuned for
 **JOIN**
 ======
 
-- **Graduate & Undergraduate research, Spring 2027** — I am actively recruiting students (PhD/MS/Undergraduate researchers) to start join my group at UMass Amherst. Research areas broadly include: Topology optimization: foundations and applications, AI/ML for engineering design,  design for advanced manufacturing. Candidates interested are encouraged to e-mail me at ssridhara@umass.edu with subject line Research Applicant: &lt;Your Name&gt;, and I would be happy to discuss further. 
+- **Graduate & Undergraduate research, Fall 2026/Spring 2027** — I am actively recruiting students (PhD/MS/Undergraduate researchers) to start join my group at UMass Amherst. Research areas broadly include: Topology optimization: foundations and applications, AI/ML for engineering design,  design for advanced manufacturing. Candidates interested are encouraged to e-mail me at ssridhara@umass.edu with subject line Research Applicant: &lt;Your Name&gt;, and I would be happy to discuss further. 
