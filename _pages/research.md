@@ -7,6 +7,16 @@ redirect_from:
   - /publications/
 ---
 
+We develop novel design optimization approaches spanning multiple physics, materials, components, and length scales.
+
+Methods: We focus on developing novel representations of engineering design. These include traditional and emerging neural-network based representations of mechanical systems, ranging from geometric components, materials and catalog componetns. We also are a strong proponent of differentiable physics solvers, that enable us to tackle problems in multi-X (X: physics, materials, and length scales) in a tractable manner.
+
+Applications: The foundations we develop enable applications across multiple disciplines. The multi-alloy structures enable designing high-performance components in automobile and aerospace industries. The design of architected and lattice materials to achieve target linear and nonlinear responses. We are also interested in pushing the frontier of topology optimization to complex, multi-physics and nonlinear systems. 
+
+
+Foundations: The approaches we develop are grounded in geometric modeling, computational mechanics (in particular, FEA), and nonlinear optimization.
+
+
 <!-- Add a description of your research here. -->
 
 ## Publications
