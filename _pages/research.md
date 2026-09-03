@@ -9,9 +9,9 @@ redirect_from:
 
 We develop novel design optimization approaches spanning multiple physics, materials, components, and length scales.
 
-Methods: We focus on developing novel representations of engineering design. These include traditional and emerging neural-network based representations of mechanical systems, ranging from geometric parts, materials and catalog components. We also are a proponent of developing and using differentiable physics solvers, that enable us to tackle problems in multi-X (X: physics, materials, and length scales) in a tractable manner.
+Methods: We focus on developing novel representations for engineering design. These include traditional and emerging neural-network based representations and optimization of mechanical systems, ranging from geometric parts, materials and catalog components. We also are a proponent of developing and using differentiable physics solvers, that enable us to tackle problems in multi-X (X: physics, materials, and length scales) in a tractable manner.
 
-Applications: The foundations we develop enable applications across multiple disciplines. The multi-alloy structures enable designing high-performance components in automobile and aerospace industries. The design of architected and lattice materials to achieve target linear and nonlinear responses. We are also interested in pushing the frontier of topology optimization to complex, multi-physics and nonlinear systems, and the synergy of topology optimization with advanced manufacturing. 
+Applications: The approaches we develop enable applications across multiple disciplines. The multi-alloy structures enable designing high-performance components in automobile and aerospace industries. The design of architected and lattice materials to achieve target linear and nonlinear responses. We are also interested in pushing the frontier of topology optimization to complex, multi-physics and nonlinear systems, and the synergy of topology optimization with advanced manufacturing. 
 
 
 Foundations: The approaches we develop are grounded in geometric modeling, computational mechanics (in particular, FEA), and nonlinear optimization.
