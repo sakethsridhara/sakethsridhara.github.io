@@ -11,6 +11,8 @@ Aug 26: Presented an invited talk at the ASME Data-to-design Workshop at IDETC 2
 
 Feb 26: Paper on Latent-space approach to multi-material topology optimization publishing in SAMO [link](https://link.springer.com/article/10.1007/s00158-025-04225-2)
 
+Nov 25: Presented at the AI-Engineering Seminar at UMass Riccio College of Engineering
+
 Oct 25: Presented an invited talk at Worcester Polytechnic Institute on ML for engineering design optimization
 
 Oct 25: Presented an invited lightning talk at the NSF AI-EDSE Workshop. Find the recording [here](https://engineering.purdue.edu/ME/AI-EDSE)
