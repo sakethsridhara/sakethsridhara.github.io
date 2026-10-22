@@ -5,6 +5,12 @@ permalink: /news/
 author_profile: true
 ---
 
+Aug 26: Two conference presentations at ASME IDETC-CIE 2026, on works from Undergrad researchers Haluk Yuzukirmizi and Ryan O'Meara.
+
+Aug 26: Presented an invited talk at the ASME Data-to-design Workshop at IDETC 2026 [link](https://decode.mit.edu/D2D-IDETC26/)
+
+Feb 26: Paper on Latent-space approach to multi-material topology optimization publishing in SAMO [link](https://link.springer.com/article/10.1007/s00158-025-04225-2)
+
 Oct 25: Presented an invited talk at Worcester Polytechnic Institute on ML for engineering design optimization
 
 Oct 25: Presented an invited lightning talk at the NSF AI-EDSE Workshop. Find the recording [here](https://engineering.purdue.edu/ME/AI-EDSE)
