@@ -11,7 +11,7 @@ author_profile: false
   <img src="/images/saketh_headshot.jpg" alt="Saketh Sridhara" style="width:150px; height:150px; border-radius:50%; object-fit:cover; flex-shrink:0;">
   <div>
     <p style="margin:0 0 8px; font-weight:bold;">Saketh Sridhara </p>
-    <p style="margin:0;"> I am an Assistant Professor in Mechanical Engineering (since Fall 2025) at UMass Amherst, and I lead the computational design research group. I am also affiliated with the Materials Science Interdisciplinary Graduate Program. Prior to starting at UMass, I completed my PhD in Mechanical Engineering and a minor in Computer Science at the University of Wisconsin-Madison in the summer of 2025, advised by Prof. Krishnan Suresh.
+    <p style="margin:0;"> I am an Assistant Professor in Mechanical Engineering (since Fall 2025) at UMass Amherst, and I lead the computational design research group. I am also affiliated with the Materials Science Interdisciplinary Graduate Program. Prior to starting at UMass, I completed my PhD in Mechanical Engineering and a minor in Computer Science at the University of Wisconsin-Madison in the summer of 2025, advised by Prof. Krishnan Suresh. Outside of work, I love to travel and explore the outdoors. I enjoy watching (or just following) sports. I try to keep up to date with advances in tech, cars, airplanes.
  </p>
   </div>
 </div>
@@ -23,9 +23,17 @@ author_profile: false
   <div style="width:150px; text-align:center;">
     <img src="/images/placeholder-avatar.svg" alt="Placeholder photo" style="width:120px; height:120px; border-radius:50%; object-fit:cover; margin-bottom:8px;">
     <p style="margin:0; font-weight:bold;">Brian York</p>
-    <p style="margin:4px 0 0; font-size:0.9em;"> Incoming masters student in Materials Science</p>
+    <p style="margin:4px 0 0; font-size:0.9em;"> Masters student in Materials Science</p>
   </div>
 </div>
+<div style="display:flex; flex-wrap:wrap; gap:24px; margin:12px 0 32px;">
+  <div style="width:150px; text-align:center;">
+    <img src="/images/placeholder-avatar.svg" alt="Placeholder photo" style="width:120px; height:120px; border-radius:50%; object-fit:cover; margin-bottom:8px;">
+    <p style="margin:0; font-weight:bold;">Yuyang Tang</p>
+    <p style="margin:4px 0 0; font-size:0.9em;"> Masters student in Mechanical Engineering</p>
+  </div>
+</div>
+
 
 **Undergraduate Students**
 
@@ -37,6 +45,20 @@ author_profile: false
   </div>
 </div>
 
+<div style="display:flex; flex-wrap:wrap; gap:24px; margin:12px 0 32px;">
+  <div style="width:150px; text-align:center;">
+    <img src="/images/placeholder-avatar.svg" alt="Placeholder photo" style="width:120px; height:120px; border-radius:50%; object-fit:cover; margin-bottom:8px;">
+    <p style="margin:0; font-weight:bold;">Harsith Thokala</p>
+    <p style="margin:4px 0 0; font-size:0.9em;"> Undergrad researcher, pursuing BS (honors) in Computer Science</p>
+  </div>
+</div>
+<div style="display:flex; flex-wrap:wrap; gap:24px; margin:12px 0 32px;">
+  <div style="width:150px; text-align:center;">
+    <img src="/images/placeholder-avatar.svg" alt="Placeholder photo" style="width:120px; height:120px; border-radius:50%; object-fit:cover; margin-bottom:8px;">
+    <p style="margin:0; font-weight:bold;">Rehan Taneja</p>
+    <p style="margin:4px 0 0; font-size:0.9em;"> Undergrad researcher, pursuing BS (honors) in Computer Science</p>
+  </div>
+</div>
 **Former Students**
 
 <div style="display:flex; flex-wrap:wrap; gap:24px; margin:12px 0 32px;">
