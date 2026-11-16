@@ -7,6 +7,8 @@ redirect_from:
   - /publications/
 ---
 
+![Computational design research lab overview](/images/research-overview.png)
+
 We develop novel design optimization approaches spanning multiple physics, materials, components, and length scales.
 
 Methods: We focus on developing novel representations for engineering design. These include traditional and emerging neural-network based representations and optimization of mechanical systems, ranging from geometric parts, materials and catalog components. We also are a proponent of developing and using differentiable physics solvers, that enable us to tackle problems in multi-X (X: physics, materials, and length scales) in a tractable manner.
